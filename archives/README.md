@@ -5,4 +5,4 @@
 ## Version Table
 version | date | change | notes 
 --------|------|--------|------
-xxx.xxx.xxx | 2022-12-29 | made button green | change event from onclick to onblur in next version
+000.000.001| 2023-01-13 | project setup | n/a
